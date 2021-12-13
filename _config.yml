@@ -106,7 +106,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "한걸음씩 꾸준한 개발자"
   location         : "South Korea"
-  email            :
+  email            : "abcehgus@gmail.com"
   links:a
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
