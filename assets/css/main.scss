@@ -7,15 +7,5 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@font-face {
-	font-family: 'Comic Neue';
-	src: url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital@1&display=swap');
-	font-weight: normal;
-	font-style: normal;
-}
-
-body {
-	font-family: 'Comic Neue';
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital@1&family=Roboto+Mono:ital@1&display=swap');
 
