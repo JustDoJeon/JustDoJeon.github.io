@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""Just Do Jeon""
+  name             : "Just Do Jeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "한걸음씩 꾸준한 개발자"
   location         : "South Korea"
