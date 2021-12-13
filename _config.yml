@@ -107,7 +107,7 @@ author:
   bio              : "한걸음씩 꾸준한 개발자"
   location         : "South Korea"
   email            : "abcehgus@gmail.com"
-  links:a
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:abcehgus@gmail.com"
