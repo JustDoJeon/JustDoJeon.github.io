@@ -1,5 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+#Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @charset "utf-8";
@@ -9,10 +9,4 @@
 
 @import url('//cdn.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css');
 
-// "Cafe24Oneprettynight"
-@font-face {
-    font-family: 'Cafe24Oneprettynight';
-    src: local('Cafe24Oneprettynight'), url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital@1&display=swap');
