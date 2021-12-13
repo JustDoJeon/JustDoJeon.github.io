@@ -7,6 +7,13 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@import url('//cdn.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css');
+@font-face {
+	font-family: 'Comic Neue';
+	src: url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital@1&display=swap');
+	font-weight: normal;
+	font-style: normal;
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital@1&display=swap');
+body {
+	font-family: 'Comic Neue';
+}
