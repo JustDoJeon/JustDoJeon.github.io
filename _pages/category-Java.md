@@ -1,5 +1,5 @@
 ---
-title: "자바 프로그래밍"
+title: "Java Programming"
 layout: archive
 permalink: categories/Java
 author_profile: true
