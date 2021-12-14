@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: https://mmistakes.github.io/
+    url: https://JustDoJeon.github.io/
   - title: "About"
-    url: https://mmistakes.github.io/about/
+    url: https://JustDoJeon.github.io/about/
   - title: "Category"
     url: /categories
   # - title: "Sample Collections"
