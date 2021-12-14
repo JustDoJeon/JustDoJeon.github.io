@@ -4,6 +4,8 @@ layout: archive
 permalink: categories/Algoritm
 author_profile: true
 sidebar_main: true
+categories:
+  - Algorithm
 ---
 
 
