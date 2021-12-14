@@ -12,8 +12,8 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-
-  <style> 
+    
+    <style> 
       ::-webkit-scrollbar{width: 16px;}
       ::-webkit-scrollbar-track {background-color:#4b4f52; border-radius: 16px;}
       ::-webkit-scrollbar-thumb {background-color:#5e6265; border-radius: 16px;}
@@ -24,7 +24,10 @@
       } 
   </style>
 
+
   </head>
+
+  
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}
