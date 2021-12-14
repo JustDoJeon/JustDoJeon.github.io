@@ -4,7 +4,7 @@ title: "첫 포스팅 테스트 "
 summary : This is a sample post 2 by Hg !
 date: '2020-07-16 09:41:00 +0900'
 category: Blog
-thumbnail: /assets/imgages/profile.jpg
+thumbnail: /assets/images/profile.jpg
 
 ---
 
