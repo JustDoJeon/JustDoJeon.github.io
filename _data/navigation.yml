@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://JustDoJeon.github.io/
   - title: "About"
-    url: https://JustDoJeon.github.io/about/
+    url: /about
   - title: "Category"
     url: /categories
   # - title: "Sample Collections"
