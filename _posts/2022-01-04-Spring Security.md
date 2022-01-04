@@ -14,9 +14,11 @@ date: 2022-01-04
 last_modified_at: 2022-01-04
 ---
 
+## 왜 스프링 시큐리티 포스팅 ??
+
 Spring Security는 스프링 레거시 환경이었지만 제가 8개월간 중견SI에서 일하면서도 적용한 경험이 있고 정말 자주 사용하는 기능인 만큼 전체적인 내용을 복습하고 스프링 부트 환경에서 적용해보기 위해 포스팅해서 기록하려합니다. 
 
-💡 스프링시큐리티(Spring Security)란?
+## 💡 스프링시큐리티(Spring Security)란?
 
 
 
@@ -36,7 +38,8 @@ Spring Security는 스프링 레거시 환경이었지만 제가 8개월간 중�
 
 
 
+------
 
 출처: https://devuna.tistory.com/55 [튜나 개발일기]
-
+출처: https://spring.io/projects/spring-security#overview
 
