@@ -8,8 +8,14 @@ thumbnail:
 
 ---
 
-# Project Name
+# 알약정보웹사이트
 
-프로젝트 올릴겁니다 
+주제 : 
 
-COMMING SOON
+목표 :
+
+기간 :
+
+방식 : 
+
+내용 및 설명 :
