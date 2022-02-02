@@ -13,5 +13,3 @@ thumbnail:
 프로젝트 올릴겁니다 
 
 COMMING SOON
-
-<img src="/assets/images/profile.jpg" alt="취업사진" style="zoom:33%;" />
