@@ -1,5 +1,5 @@
 ---
-title: "개발 노트"
+title: "Dev"
 layout: archive
 permalink: categories/Dev
 author_profile: true
